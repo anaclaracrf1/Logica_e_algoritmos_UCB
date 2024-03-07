@@ -1,1 +1,1 @@
-# L-gica-e-algoritmos_UCB
+# Logica-e-algoritmos_UCB
